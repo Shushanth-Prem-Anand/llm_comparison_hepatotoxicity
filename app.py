@@ -363,7 +363,7 @@ schema_json, explanation, raw_text, used_path, load_err = load_output_for(model,
 cit_count = count_citations_in_schema(schema_json) if schema_json else 0
 
 with right:
-    st.subheader("Score panel (from step2_scores_new_can.csv)")
+    st.subheader("Score panel (from step2_scores_auto_new_can.csv)")
 
     c1, c2, c3, c4, c5 = st.columns(5)
     c1.metric("JSON compliance", int(row.get("json_compliance", 0)))
