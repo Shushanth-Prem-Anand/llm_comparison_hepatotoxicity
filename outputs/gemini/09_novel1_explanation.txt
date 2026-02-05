@@ -1,0 +1,8 @@
+Metabolic Route: The primary hepatic clearance occurs via N-dealkylation (mediated by CYP2C19 and CYP3A4), stripping the ethyl groups to form ethylbenzamide and benzamide.
+Reactive Potential: While benzamides are generally stable, minor oxidative pathways can lead to the formation of ring-hydroxylated metabolites; however, these do not typically form potent electrophilic quinones.
+Low Intrinsic Toxicity: Similar to DEET, N,N-diethylbenzamide shows low affinity for mitochondrial membranes and does not significantly uncouple oxidative phosphorylation at relevant concentrations.
+Low Transporter Affinity: There is minimal evidence of interaction with the Bile Salt Export Pump (BSEP), suggesting a very low risk for drug-induced cholestasis.
+Oxidative Stress: High doses can induce a modest increase in hepatic P450 activity, which may generate minor levels of superoxide as a byproduct of catalytic turnover, but rarely overwhelms cellular glutathione.
+Absence of Haptenization: The structure lacks reactive functional groups (like acyl halides or anhydrides) that typically lead to the protein-binding required for immune-mediated injury.
+Biological Comparison: The lack of the meta-methyl group (compared to DEET) slightly alters its lipophilicity but does not introduce structural alerts for hepatotoxicity.
+Temporal Features: In the absence of documented human DILI for this specific compound, any potential injury would likely be dose-dependent and acute rather than idiosyncratic/delayed.

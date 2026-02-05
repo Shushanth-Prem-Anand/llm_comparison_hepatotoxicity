@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.06,
+  "confidence_0_to_1": 0.8,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.12 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.08 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.04 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.05 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.10 }
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "unknown",
+  "reversibility": "unknown",
+  "uncertainties": [
+    "Authoritative reviews indicate caffeine itself has not been linked to clinically apparent liver injury; therefore mechanistic scoring reflects low intrinsic hepatotoxic liability rather than an established DILI phenotype.",
+    "Reports of liver injury with energy drinks are confounded by multi-ingredient formulations (e.g., vitamins/other additives); attribution to caffeine alone is uncertain.",
+    "At extreme/toxic systemic exposures, secondary hepatic hypoxia/ischemic-like injury patterns have been described in energy-drink contexts, but mechanism is not clearly direct hepatocyte toxicity from caffeine."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK559835/",
+    "https://www.ncbi.nlm.nih.gov/books/NBK559836/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9618645/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3141691/"
+  ]
+}

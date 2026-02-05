@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.65,
+  "confidence_0_to_1": 0.88,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.70},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.90},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.20},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.55},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.75}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "mixed_idiosyncratic_and_dose_related",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "NAT2 acetylator phenotype influences risk but does not fully predict toxicity",
+    "Relative contributions of hydrazine versus acetylhydrazine pathways debated",
+    "Age-related risk increase mechanism unclear (>35 years shows higher incidence)",
+    "Co-administration with rifampin may increase or decrease risk through enzyme induction effects"
+  ],
+  "citations": [
+    "Metushi IG, et al. Mechanism of isoniazid-induced hepatotoxicity: then and now. Br J Clin Pharmacol. 2016;81(6):1030-1036.",
+    "Boelsterli UA, Lee KK. Mechanisms of isoniazid-induced idiosyncratic liver injury: emerging role of mitochondrial stress. J Gastroenterol Hepatol. 2014;29(4):678-687.",
+    "Tostmann A, et al. Antituberculosis drug-induced hepatotoxicity: concise up-to-date review. J Gastroenterol Hepatol. 2008;23(2):192-202."
+  ]
+}

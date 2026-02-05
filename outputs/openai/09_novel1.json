@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.32,
+  "confidence_0_to_1": 0.35,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.28 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.46 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.22 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.18 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.34 }
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "unknown",
+  "reversibility": "unknown",
+  "uncertainties": [
+    "No clinical or in vivo hepatotoxicity data identified for this specific structure; assessment is structure-based and mechanistic.",
+    "Predicted bioactivation liability depends on actual metabolic routes (CYP isoforms, conjugation efficiency) that are not known.",
+    "Transporter interactions (e.g., BSEP) are inferred from physicochemical features and are not experimentally validated."
+  ],
+  "citations": [
+    "citation unavailable"
+  ]
+}

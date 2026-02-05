@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.72,
+  "confidence_0_to_1": 0.85,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.85},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.80},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.45},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.70},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.75}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "mixed_idiosyncratic_and_dose_related",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "UGT2B7 polymorphisms and acyl glucuronide stability show variable individual impact",
+    "Why diclofenac shows higher hepatotoxicity than other NSAIDs despite shared COX inhibition unclear",
+    "HLA associations reported but not consistently replicated across populations",
+    "Relative contribution of parent drug versus acyl glucuronide metabolite debated"
+  ],
+  "citations": [
+    "Boelsterli UA. Diclofenac-induced liver injury: a paradigm of idiosyncratic drug toxicity. Toxicol Appl Pharmacol. 2003;192(3):307-322.",
+    "Aithal GP, et al. Case definition and phenotype standardization in drug-induced liver injury. Clin Pharmacol Ther. 2011;89(6):806-815.",
+    "Daly AK, et al. HLA-B*5701 genotype is a major determinant of drug-induced liver injury due to flucloxacillin. Nat Genet. 2009;41(7):816-819."
+  ]
+}

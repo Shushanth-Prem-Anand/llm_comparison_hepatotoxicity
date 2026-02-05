@@ -1,0 +1,15 @@
+Weeks–months latency fits “idiosyncratic DILI” biology: injury often requires time for metabolite burden, mitochondrial stress, and adaptive stress-response failure to accumulate before overt hepatocyte death.
+
+Reactive metabolites are a key upstream trigger: troglitazone forms reactive species that can covalently bind cellular macromolecules, creating proteotoxic stress and danger signals.
+
+Mitochondrial dysfunction links to delayed collapse: experimental systems show troglitazone can depolarize mitochondrial membrane potential, pushing cells toward energy failure and death pathways.
+
+Oxidative stress is both cause and amplifier: metabolite adducts + mitochondrial impairment drive ROS escalation, which further damages membranes and proteins and accelerates necrosis/apoptosis.
+
+Cholestasis/BSEP inhibition is unusually strong for this drug class: troglitazone (especially its sulfate) inhibits BSEP-mediated bile acid export, promoting intrahepatocellular bile acid accumulation and bile-acid–mediated toxicity.
+
+Dose dependence is weak because susceptibility dominates: transporter inhibition and reactive metabolite formation can be exposure-related, but who gets severe injury depends heavily on host handling capacity and stress tolerance rather than a simple linear dose rule.
+
+Reversibility is variable: many cases improve once the injurious pressure stops, but if injury crosses a tipping point (massive necrosis / cholestatic injury), damage can continue despite withdrawal.
+
+Immune-mediated features are plausible downstream: hepatocyte stress/adducts can stimulate sterile inflammation that modulates severity, but primary initiation is better supported as metabolic/mitochondrial + bile-acid transport stress.

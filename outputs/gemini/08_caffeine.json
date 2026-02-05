@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.05,
+  "confidence_0_to_1": 0.98,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.1},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.05},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.0},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.0},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.1}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "unknown",
+  "reversibility": "not_applicable",
+  "uncertainties": [
+    "Potential for toxicity only in extreme overdose secondary to systemic cardiovascular collapse",
+    "Interaction with other methylxanthines in rare reports of liver enzyme elevation"
+  ],
+  "citations": [
+    "Arnaud, M. J. (2011). Pharmacokinetics and metabolism of caffeine.",
+    "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Caffeine."
+  ]
+}

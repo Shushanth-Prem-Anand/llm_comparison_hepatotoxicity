@@ -1,0 +1,10 @@
+Overall low intrinsic DILI signal: LiverTox summarizes that caffeine has not been linked to clinically apparent liver injury, which is why the total risk score is low. 
+Reactive metabolite formation is low-weight: caffeine is mainly metabolized by CYP1A2 to paraxanthine/theobromine/theophylline, not classically associated with electrophilic “protein-adduct” stress driving DILI. 
+Mitochondrial/oxidative stress are minor and context-dependent: any mitochondrial/ROS burden is more consistent with systemic toxicity physiology at extreme exposures than a canonical hepatocyte-targeting mechanism. 
+Cholestasis/BSEP inhibition is unlikely: there is no strong evidence that caffeine’s primary biology is bile-acid transport blockade, so cholestasis is scored very low. citation unavailable
+Immune-mediated injury is unlikely: caffeine is not a typical “hapten/adduct → adaptive immune” DILI archetype; hypersensitivity-like signatures are not a dominant pattern in authoritative summaries. 
+Energy-drink liver injury is not clean evidence for caffeine: LiverTox notes energy-drink cases exist but are not convincing and the causative component is unclear—often implicating other ingredients (e.g., niacin in some reports). 
+Temporal features remain “unknown”: because caffeine-alone clinically apparent hepatotoxicity is not established, there isn’t a reliable population-level latency/dose–response/reversibility phenotype to assert. 
+
+
+

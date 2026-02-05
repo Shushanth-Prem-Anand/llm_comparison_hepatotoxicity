@@ -1,0 +1,12 @@
+Reactive acyl glucuronide as key toxicant: Diclofenac undergoes UGT2B7-mediated glucuronidation to form an unstable acyl glucuronide that undergoes intramolecular rearrangement and transacylation reactions, covalently binding to hepatic proteins (particularly mitochondrial proteins) and triggering downstream toxicity
+Mitochondrial dysfunction is central mechanism: Diclofenac and its metabolites directly impair mitochondrial function by uncoupling oxidative phosphorylation, opening the mitochondrial permeability transition pore, depleting ATP, and causing mitochondrial swelling—particularly affecting hepatocytes with high metabolic demand
+Oxidative stress amplifies injury: Mitochondrial dysfunction generates ROS; diclofenac metabolism by CYP2C9/CYP3A4 produces quinone-imine reactive intermediates; acyl glucuronide reactivity depletes cellular antioxidants—creating synergistic oxidative damage in susceptible individuals
+Immune-mediated component in subset: Evidence includes rechallenge positivity, hypersensitivity features (fever, rash, eosinophilia) in ~20% of cases, anti-CYP2C9 autoantibodies in some patients, and protein adducts serving as neoantigens; HLA-DRB11501 and HLA-A3301 associations reported but not consistently validated
+Mixed cholestatic-hepatocellular pattern: While predominantly hepatocellular injury (80%), ~20% show mixed or cholestatic features; diclofenac acyl glucuronide inhibits BSEP and MRP2 transporters (though less potently than troglitazone), contributing to bile acid accumulation in some cases
+Subacute onset (1-6 months typical): Most cases present after 1-3 months of therapy (median 6-12 weeks), though acute presentations (<1 week) and late-onset cases (>12 months) reported; incidence ~1-5 per 100,000 users, higher than most other NSAIDs
+Dose-related and idiosyncratic features coexist: Higher doses (150 mg/day) and sustained-release formulations show increased risk, suggesting dose-dependent component; however, unpredictable individual susceptibility indicates idiosyncratic overlay involving genetic and environmental factors
+Generally reversible with discontinuation: Most cases resolve within weeks to months after stopping diclofenac if caught early; however, ~10% progress to severe/fulminant hepatic failure with mortality ~5-10%, particularly with delayed recognition or continued exposure despite symptoms
+
+
+
+

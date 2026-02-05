@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.85,
+  "confidence_0_to_1": 0.78,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.72 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.76 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.64 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.42 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.70 }
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "variable_often_improves_after_discontinuation_but_can_progress",
+  "uncertainties": [
+    "Clinical phenotype is idiosyncratic with heterogeneous patterns (hepatocellular vs mixed/cholestatic) and variable latency; mechanistic weights reflect aggregate evidence rather than a single uniform pathway.",
+    "BSEP inhibition is strongly supported for certain metabolites (e.g., sulfate conjugate), but translating in vitro transporter inhibition into individual human outcomes remains uncertain.",
+    "Immune involvement is plausible as a downstream amplifier (danger signaling after cell stress/adducts) but is less consistently demonstrated as the initiating event compared with metabolic/mitochondrial stress."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK548142/",
+    "https://pubmed.ncbi.nlm.nih.gov/17072088/",
+    "https://pubmed.ncbi.nlm.nih.gov/11557132/",
+    "https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.20567",
+    "https://pubmed.ncbi.nlm.nih.gov/9839107/"
+  ]
+}

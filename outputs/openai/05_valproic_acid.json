@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.75,
+  "confidence_0_to_1": 0.85,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.86 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.62 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.14 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.33 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.72 }
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "variable_often_improves_after_discontinuation_but_can_progress",
+  "uncertainties": [
+    "Valproate has multiple clinical phenotypes (transient aminotransferase elevations, acute hepatitis, and microvesicular steatosis/REYE-like presentations); this output reflects the severe mechanistic liability phenotype rather than frequency in any treated cohort.",
+    "Reactive-metabolite contribution varies across individuals and may depend on the balance between beta-oxidation vs omega-oxidation pathways and host mitochondrial reserve.",
+    "Host susceptibility is a major determinant (e.g., underlying mitochondrial polymerase gamma pathway vulnerability), making dose–response less predictable at the individual level."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK548284/",
+    "https://www.nature.com/articles/s41598-020-68725-5",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3841971/",
+    "https://www.ncbi.nlm.nih.gov/books/NBK548365/",
+    "https://www.sciencedirect.com/science/article/pii/S1059131106000021"
+  ]
+}

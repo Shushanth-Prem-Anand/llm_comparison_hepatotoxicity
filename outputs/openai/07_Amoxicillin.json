@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.28,
+  "confidence_0_to_1": 0.82,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.10 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.08 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.48 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.72 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.18 }
+  ],
+  "time_to_onset": "days_to_2_weeks",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "often_reversible_if_exposure_limited_or_stopped_early",
+  "uncertainties": [
+    "Clinically apparent liver injury from amoxicillin alone is rare; risk_score reflects intrinsic idiosyncratic liability rather than population incidence.",
+    "Biochemical pattern can be hepatocellular or cholestatic; cholestatic cases may be more prolonged (weeks to months) despite eventual recovery.",
+    "A key confounder in real-world data is inadvertent exposure to the amoxicillin+clavulanate combination, which is a much more common cause of DILI."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK547854/"
+  ]
+}

@@ -1,0 +1,31 @@
+model,molecule,json_compliance,mechanism_plausibility,temporal_plausibility,uncertainty_honesty,citation_integrity,notes
+openai,01_Acetaminophen,2,2,1,2,1,"OK; Top3 overlap=3; Temporal match 2/3 (acute,dose_dependent,likely_reversible); Uncertainty stated; Citations present (review)"
+openai,02_Troglitazone,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,variable); Uncertainty stated; Citations present (review)"
+openai,03_Isoniazid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+openai,04_Diclofenac,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+openai,05_valproic_acid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,variable); Uncertainty stated; Citations present (review)"
+openai,06_Metformin,2,1,0,2,1,"REVIEW: OK; Top3 overlap=1; Temporal match 0/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+openai,07_Amoxicillin,2,1,0,2,1,"REVIEW: OK; Top3 overlap=1; Temporal match 1/3 (acute,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+openai,08_Caffeine,2,1,2,2,1,"OK; Top3 overlap=1; Temporal match 3/3 (unknown,unknown,unknown); Uncertainty stated; Citations present (review)"
+openai,09_novel1,2,2,2,2,2,OK; Novel: conservative mechanisms; Novel: temporal cautious; Novel: uncertainty appropriate; Conservative citations
+openai,10_novel2,2,2,2,2,2,OK; Novel: conservative mechanisms; Novel: temporal cautious; Novel: uncertainty appropriate; Conservative citations
+gemini,01_acetaminaphen_gem,2,2,1,2,1,"OK; Top3 overlap=3; Temporal match 2/3 (acute,dose_dependent,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,02_Troglitazone,2,2,0,2,1,"REVIEW: OK; Top3 overlap=3; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,03_Isoniazid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,04_diclofenac,2,2,0,2,1,"REVIEW: OK; Top3 overlap=3; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,05_Valproic_acid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,06_Metformin,2,1,2,2,1,"OK; Top3 overlap=1; Temporal match 3/3 (unknown,unknown,unknown); Uncertainty stated; Citations present (review)"
+gemini,07_Amoxicillin,2,1,0,2,1,"REVIEW: OK; Top3 overlap=1; Temporal match 1/3 (chronic,idiosyncratic,likely_reversible); Uncertainty stated; Citations present (review)"
+gemini,08_caffeine,2,1,2,2,1,"OK; Top3 overlap=1; Temporal match 3/3 (unknown,unknown,unknown); Uncertainty stated; Citations present (review)"
+gemini,09_novel1,2,1,1,1,1,OK; Novel: somewhat conservative; Novel: temporal asserted; Novel: uncertainty partial; Citations present (review)
+gemini,10_novel2,2,1,1,1,2,OK; Novel: somewhat conservative; Novel: temporal asserted; Novel: uncertainty partial; Conservative citations
+claude,01_Acetaminophen,2,2,1,2,1,"OK; Top3 overlap=3; Temporal match 2/3 (acute,dose_dependent,likely_reversible); Uncertainty stated; Citations present (review)"
+claude,02_Troglitazone,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 0/3 (subacute,mixed,likely_irreversible); Uncertainty stated; Citations present (review)"
+claude,03_Isoniazid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 0/3 (subacute,mixed,likely_reversible); Uncertainty stated; Citations present (review)"
+claude,04_Diclofenac,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 0/3 (subacute,mixed,likely_reversible); Uncertainty stated; Citations present (review)"
+claude,05_Valproic_Acid,2,2,0,2,1,"REVIEW: OK; Top3 overlap=2; Temporal match 0/3 (subacute,dose_dependent,likely_irreversible); Uncertainty stated; Citations present (review)"
+claude,06_Metformin,2,1,0,2,1,"REVIEW: OK; Top3 overlap=1; Temporal match 0/3 (subacute,dose_dependent,likely_reversible); Uncertainty stated; Citations present (review)"
+claude,07_Amoxicillin,2,1,0,2,1,"REVIEW: OK; Top3 overlap=1; Temporal match 0/3 (subacute,dose_dependent,likely_reversible); Uncertainty stated; Citations present (review)"
+claude,08_Caffeine,2,1,0,2,2,"REVIEW: OK; Top3 overlap=1; Temporal match 1/3 (unknown,dose_dependent,likely_reversible); Uncertainty stated; Conservative citations"
+claude,09_novel1,2,1,1,1,2,OK; Novel: somewhat conservative; Novel: temporal asserted; Novel: uncertainty partial; Conservative citations
+claude,10_novel2,2,0,1,0,2,REVIEW: OK; Novel: overconfident mechanisms; Novel: temporal asserted; Novel: overconfident; Conservative citations

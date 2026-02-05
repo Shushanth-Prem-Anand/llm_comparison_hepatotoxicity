@@ -1,0 +1,9 @@
+Reactive Quinone Imines: Oxidative metabolism via CYP2C9 and CYP3A4 produces hydroxylated metabolites that can be further oxidized into highly reactive quinone imines, capable of arylating cellular proteins.
+Acyl Glucuronidation: Conjugation by UGT2B7 forms an unstable acyl glucuronide. This metabolite is reactive and can covalently bind to proteins via transacylation, creating antigenic "non-self" adducts.
+Immune Haptenization: The protein adducts formed by both quinone imines and acyl glucuronides serve as haptens, triggering a specific T-cell mediated immune response in susceptible individuals.
+Mitochondrial Uncoupling: The parent compound possesses acidic properties that allow it to act as a protonophore, uncoupling oxidative phosphorylation and dissipating the mitochondrial membrane potential.
+MPT Pore Induction: High intracellular concentrations (often due to accumulation) can trigger the opening of the Mitochondrial Permeability Transition (MPT) pore, leading to ATP depletion and cell death.
+Oxidative Stress: The redox cycling of quinone intermediates and mitochondrial disruption generates significant Reactive Oxygen Species (ROS), overwhelming cellular defenses like SOD and catalase.
+Transporter Interference: While less dominant than metabolic factors, diclofenac and its metabolites can inhibit efflux transporters (MDR2/3), contributing to a mixed hepatocellular-cholestatic injury pattern.
+Temporal Features: The typical onset of 1 to 6 months is characteristic of metabolic idiosyncrasy, requiring time for the accumulation of protein adducts and the maturation of the adaptive immune response.
+

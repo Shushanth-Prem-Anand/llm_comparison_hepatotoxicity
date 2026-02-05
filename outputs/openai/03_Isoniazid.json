@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.72,
+  "confidence_0_to_1": 0.82,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.62 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.78 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.25 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.55 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.68 }
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "often_reversible_if_exposure_limited_or_stopped_early",
+  "uncertainties": [
+    "Clinical phenotype is heterogeneous: many have only transient ALT elevations, while a smaller subset develops clinically significant hepatitis; this output reflects intrinsic idiosyncratic liability rather than incidence under any specific regimen.",
+    "Immune involvement is supported by delayed onset and evidence for responses to drug-modified proteins, but the initiating balance between metabolic stress vs immune amplification varies across individuals.",
+    "Cholestatic features and bile-transport perturbation are reported (e.g., FXR/BSEP axis changes), but are generally not the dominant pattern compared with hepatocellular injury."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK548754/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4876174/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5045547/",
+    "https://www.frontiersin.org/articles/10.3389/fphar.2022.1037814/full",
+    "https://www.thoracic.org/statements/resources/mtpi/hepatotoxicity-of-antituberculosis-therapy.pdf"
+  ]
+}

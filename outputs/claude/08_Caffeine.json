@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.05,
+  "confidence_0_to_1": 0.92,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.05},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.10},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.05},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.05},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.15}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "minimal_dose_relationship",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "True hepatotoxicity incidence difficult to assess given ubiquitous consumption worldwide",
+    "CYP1A2 polymorphisms affect caffeine metabolism but relationship to hepatotoxicity unclear",
+    "Whether case reports represent true hepatotoxicity versus confounding from energy drink additives or underlying conditions",
+    "Extremely rare case reports make mechanistic characterization speculative"
+  ],
+  "citations": [
+    "Chawla A, et al. Caffeine and liver disease. J Clin Exp Hepatol. 2011;1(2):99-103.",
+    "Freedman ND, et al. Association of coffee drinking with total and cause-specific mortality. N Engl J Med. 2012;366(20):1891-1904.",
+    "citation unavailable"
+  ]
+}

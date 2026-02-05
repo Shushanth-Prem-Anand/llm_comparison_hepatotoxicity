@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.92,
+  "confidence_0_to_1": 0.90,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.90},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.85},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.80},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.65},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.85}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "mixed_idiosyncratic_and_dose_related",
+  "reversibility": "variable_some_irreversible",
+  "uncertainties": [
+    "Individual susceptibility factors poorly characterized despite extensive study",
+    "Relative contribution of parent drug versus quinone metabolite unclear",
+    "HLA associations not definitively established unlike other idiosyncratic hepatotoxins",
+    "Why structurally similar glitazones (pioglitazone, rosiglitazone) show lower hepatotoxicity risk remains incompletely understood"
+  ],
+  "citations": [
+    "Kohlroser J, et al. Hepatotoxicity due to troglitazone: report of two cases and review of adverse events reported to the FDA. Am J Gastroenterol. 2000;95(1):272-276.",
+    "Smith MT. Mechanisms of troglitazone hepatotoxicity. Chem Res Toxicol. 2003;16(6):679-687.",
+    "Funk C, et al. Troglitazone-induced intrahepatic cholestasis by an interference with the hepatobiliary export of bile acids in male rats. Toxicology. 2001;167(1):83-98."
+  ]
+}

@@ -1,0 +1,7 @@
+Reactive metabolite formation (moderate): The phenyl + tertiary amine motif often undergoes CYP oxidation (benzylic/aromatic hydroxylation, N-dealkylation), which can sometimes yield electrophilic intermediates—hence a moderate score.
+Cholestasis/BSEP inhibition (moderate): A cationic amphiphilic scaffold (tertiary amine in a ring + aromatic ring) can concentrate in hepatocytes and has a non-trivial chance of perturbing bile-acid transport, but this is speculative without assays.
+Mitochondrial dysfunction (low–moderate): Cationic amines can promote organelle accumulation (including mitochondria/lysosomes); mitochondrial liability is usually secondary unless strong uncoupling or ETC inhibition emerges.
+Oxidative stress (low–moderate): If oxidation/bioactivation occurs, ROS can rise as a downstream amplifier; absent evidence, it’s kept below reactive-metabolite risk.
+Immune-mediated injury (low): No strong “obvious hapten” signature is established from structure alone; immune injury would more likely be downstream of adduct formation if it happens.
+Ester vs amide handling affects everything: The carbamate/urethane-like linkage may be hydrolyzed; if rapid hydrolysis dominates, parent-driven liabilities drop and metabolite liabilities dominate (unknown here).
+Temporal features are unknown: Without kinetics, dose/exposure, and metabolism data, latency, dose dependence, and reversibility cannot be assigned credibly.

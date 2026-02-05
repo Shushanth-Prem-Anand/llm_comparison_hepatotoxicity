@@ -1,0 +1,10 @@
+Time-to-onset (weeks–months) matches idiosyncratic DILI: diclofenac injury commonly emerges after sustained exposure, with many cases presenting around 2–6 months (but can be earlier/later). 
+Reactive metabolite formation is an upstream hazard: diclofenac undergoes CYP oxidation and glucuronidation; a reactive acyl-glucuronide and oxidative metabolites can form protein adducts that initiate cellular stress/danger signaling. 
+Immune-mediated injury is a plausible amplifier: adducted proteins can act like “neo-antigens,” helping explain delayed, non-linear (not clearly dose-dependent) presentations typical of idiosyncratic reactions. 
+Mitochondrial dysfunction is a major convergence point: diclofenac can impair mitochondrial ATP synthesis and trigger permeability transition, predisposing hepatocytes to energy collapse. 
+Oxidative stress is tightly linked to mitochondria here: experimental work shows diclofenac can drive mitochondrial ROS (e.g., H₂O₂) and impair mitophagy, escalating damage. 
+BSEP inhibition contributes but isn’t always “pure cholestasis”: BSEP inhibition is a recognized cholestasis risk mechanism, and bile-acid retention can worsen hepatocyte injury even when the clinical pattern is hepatocellular/mixed. 
+Reversibility is often good if exposure stops early: many cases improve after discontinuation, consistent with relief of mitochondrial/oxidative and immune-amplification pressures once the trigger is removed. 
+
+
+

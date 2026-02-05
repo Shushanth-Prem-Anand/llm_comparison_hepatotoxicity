@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.08,
+  "confidence_0_to_1": 0.88,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.05},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.15},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.05},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.10},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.10}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "minimal_dose_relationship",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "Limited hepatotoxicity surveillance data for meperidine/pethidine in modern clinical practice",
+    "Normeperidine accumulation in renal impairment causes neurotoxicity but hepatotoxic potential unclear",
+    "Historical case reports may involve confounding from polysubstance use or underlying liver disease",
+    "Relative hepatotoxicity compared to other opioids difficult to assess due to decreased contemporary use"
+  ],
+  "citations": [
+    "Latta KS, et al. Meperidine: a critical review. Am J Ther. 2002;9(1):53-68.",
+    "citation unavailable",
+    "citation unavailable"
+  ]
+}

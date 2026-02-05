@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.12,
+  "confidence_0_to_1": 0.75,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.15},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.25},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.10},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.20},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.20}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "unknown",
+  "reversibility": "unknown",
+  "uncertainties": [
+    "No human hepatotoxicity data available for this specific structure",
+    "N,N-diethylbenzamide has limited clinical or toxicological literature",
+    "Metabolic pathways and metabolite profiles in humans unknown",
+    "Structural similarity to other benzamides does not reliably predict hepatotoxicity",
+    "Without empirical data, predictions are purely speculative based on structural features"
+  ],
+  "citations": [
+    "citation unavailable",
+    "citation unavailable",
+    "citation unavailable"
+  ]
+}

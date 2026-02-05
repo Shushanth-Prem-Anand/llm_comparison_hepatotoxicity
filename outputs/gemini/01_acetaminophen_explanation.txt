@@ -1,0 +1,8 @@
+Metabolic Bioactivation: The primary driver is the conversion by CYP2E1 (and to a lesser extent CYP1A2/3A4) into the highly reactive electrophile N-acetyl-p-benzoquinone imine (NAPQI).
+Glutathione Depletion: Under supra-therapeutic conditions, the detoxification pathway via conjugation with Glutathione (GSH) is overwhelmed, leading to total depletion of hepatic GSH stores.
+Covalent Binding: Unbound NAPQI binds covalently to cysteinyl residues on hepatocellular proteins, specifically targeting mitochondrial enzymes and structural proteins.
+Mitochondrial Oxidative Stress: Covalent binding triggers a massive surge in Reactive Oxygen Species (ROS) and peroxynitrite, leading to profound oxidative stress within the organelle.
+Permeability Transition: The cumulative mitochondrial damage leads to the induction of the Mitochondrial Permeability Transition (MPT) pore, resulting in the collapse of the membrane potential and cessation of ATP synthesis.
+Nuclear Fragmentation: Downstream of mitochondrial collapse, DNA fragmentation occurs via the translocation of endonucleases (like AIF and EndoG) from the mitochondria to the nucleus.
+Necrotic Cell Death: Unlike apoptosis, this process results in rapid cell lysis and the release of damage-associated molecular patterns (DAMPs), causing a secondary sterile inflammatory response.
+Temporal Features: The "hours to days" onset is highly predictable and corresponds directly to the kinetics of GSH depletion followed by the catastrophic failure of mitochondrial respiration.

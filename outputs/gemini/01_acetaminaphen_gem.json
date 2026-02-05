@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.95,
+  "confidence_0_to_1": 0.98,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.9},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 1.0},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.1},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.2},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.95}
+  ],
+  "time_to_onset": "hours_to_days",
+  "dose_dependence": "dose_dependent",
+  "reversibility": "reversible_if_treated_early",
+  "uncertainties": [
+    "Threshold of glutathione depletion across different nutritional states",
+    "Impact of chronic ethanol induction on CYP2E1 kinetics"
+  ],
+  "citations": [
+    "McGill, M. R., & Jaeschke, H. (2013). Metabolism and mechanisms of acetaminophen-induced hepatotoxicity.",
+    "Hinson, J. A., et al. (2010). Mechanisms of acetaminophen-induced liver necrosis."
+  ]
+}

@@ -1,0 +1,14 @@
+Reactive metabolite formation via dual pathways: Isoniazid undergoes N-acetylation by NAT2 to acetylisoniazid, then hydrolysis to acetylhydrazine; alternatively, direct hydrolysis generates hydrazine—both metabolites are hepatotoxic and undergo further oxidation by CYP2E1 to reactive intermediates
+NAT2 polymorphism creates complex risk pattern: Slow acetylators (homozygous NAT2 variants) accumulate parent isoniazid favoring hydrazine formation; rapid acetylators generate more acetylhydrazine—both pathways produce toxicity, creating a "U-shaped" or bimodal risk curve though epidemiologic data show variable patterns
+Mitochondrial dysfunction drives hepatocyte injury: Reactive metabolites (particularly acetylhydrazine derivatives) impair mitochondrial respiration, deplete mitochondrial DNA, trigger oxidative phosphorylation uncoupling, and induce mitochondrial permeability transition leading to ATP depletion and necrosis
+Oxidative stress via multiple mechanisms: CYP2E1-mediated metabolism generates ROS; mitochondrial dysfunction amplifies oxidative damage; reactive metabolites deplete glutathione and form protein adducts—creating a pro-oxidant cellular environment
+Immune-mediated component in subset of cases: Some patients exhibit fever, rash, eosinophilia suggesting hypersensitivity; protein adducts may act as neoantigens triggering adaptive immune responses; however, most hepatotoxicity appears metabolically driven rather than primarily immunologic
+Subacute onset (4 weeks to 6 months): Hepatotoxicity typically manifests after 1-6 months of therapy (peak 2-3 months), reflecting cumulative metabolite exposure and progressive mitochondrial damage; asymptomatic transaminase elevations occur in 10-20% of patients, with clinical hepatitis in 0.1-1%
+Age and alcohol as cofactors: Risk increases significantly after age 35 (mechanisms unclear but may involve reduced mitochondrial reserve); chronic alcohol consumption induces CYP2E1 enhancing reactive metabolite formation and depletes hepatic glutathione
+Generally reversible with early discontinuation: Most cases resolve upon isoniazid withdrawal if detected early; however, delayed recognition can lead to acute liver failure (1-10% of symptomatic cases), particularly in older patients or those with advanced fibrosis
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.12,
+  "confidence_0_to_1": 0.75,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.1},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.25},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.05},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.05},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.15}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "dose_dependent",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Limited human clinical data specifically for the unmethylated benzamide variant",
+    "Potential for cumulative toxicity only at extreme concentrations not seen in environmental exposure"
+  ],
+  "citations": [
+    "Schoenig, G. P., et al. (1993). Evaluation of the subchronic toxicity of diethyltoluamide (DEET).",
+    "Usmani, K. A., et al. (2002). Metabolism of DEET by human liver microsomes and cytochrome P450 isoforms."
+  ]
+}

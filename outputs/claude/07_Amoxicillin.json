@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.25,
+  "confidence_0_to_1": 0.85,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.10},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.35},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.50},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.75},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.25}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "minimal_dose_relationship",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "HLA associations weaker for amoxicillin than for amoxicillin-clavulanate suggesting clavulanate drives immunogenicity",
+    "Whether amoxicillin alone or primarily amoxicillin-clavulanate formulation causes hepatotoxicity debated",
+    "Mechanism of delayed onset (weeks after drug cessation) in some cases unclear",
+    "Individual susceptibility factors beyond HLA poorly characterized"
+  ],
+  "citations": [
+    "Chalasani N, et al. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology. 2015;148(7):1340-1352.",
+    "Lucena MI, et al. Susceptibility to amoxicillin-clavulanate-induced liver injury is influenced by multiple HLA class I and II alleles. Gastroenterology. 2011;141(1):338-347.",
+    "Björnsson ES, et al. Hepatotoxicity associated with statins: reports of idiosyncratic liver injury post-marketing. J Hepatol. 2012;56(2):374-380."
+  ]
+}

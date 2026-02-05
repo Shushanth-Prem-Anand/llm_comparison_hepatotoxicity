@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.85,
+  "confidence_0_to_1": 0.95,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.7},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.95},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.1},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.4},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.8}
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "idiosyncratic",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Exact contribution of hydrazine versus acetylhydrazine to necrosis in humans",
+    "Complex interplay between NAT2 acetylator status and CYP2E1 induction levels"
+  ],
+  "citations": [
+    "Metushi, I., et al. (2016). Direct oxidation of isoniazid leads to liver toxicity.",
+    "Boelsterli, U. A., & Lee, K. K. (2014). Mechanisms of isoniazid-induced idiosyncratic liver injury."
+  ]
+}

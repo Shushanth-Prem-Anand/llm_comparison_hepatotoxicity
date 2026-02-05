@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.77,
+  "confidence_0_to_1": 0.83,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.70 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.82 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.45 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.58 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.76 }
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "often_reversible_if_exposure_limited_or_stopped_early",
+  "uncertainties": [
+    "Latency is variable (reported from ~1 week to >1 year), though many cases cluster in the first several months; this output summarizes the most typical window rather than extremes.",
+    "Mechanistic contributions can differ by individual: some cases appear more immune-allergic/mixed, others more metabolic-mitochondrial; weights reflect aggregate evidence.",
+    "BSEP inhibition is a risk factor and may contribute to bile-acid–mediated hepatocyte stress, but clinical injury from diclofenac is often hepatocellular rather than purely cholestatic."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK547953/",
+    "https://pubmed.ncbi.nlm.nih.gov/14575648/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6261533/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10812772/",
+    "https://smw.ch/index.php/smw/article/view/1193/1271"
+  ]
+}

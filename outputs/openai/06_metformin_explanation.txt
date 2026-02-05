@@ -1,0 +1,10 @@
+Low overall risk but real IDILI signal: authoritative summaries describe metformin-associated liver injury as rare, with published idiosyncratic hepatitis cases. 
+Weeks-to-months onset fits idiosyncratic patterns: a case-series literature review reports a median onset around ~4 weeks, consistent with delayed stress/immune amplification rather than immediate cytotoxicity. 
+Reactive metabolite formation scored low: metformin is often described as having minimal hepatic metabolism, reducing classic “bioactivation-to-adduct” initiation likelihood. 
+Cholestasis/mixed injury signal is non-trivial: published case reports include cholestatic and mixed hepatocellular–cholestatic phenotypes, motivating a higher bile-handling stress weight than reactive metabolites. 
+Immune-mediated contribution is plausible (secondary/variable): delayed presentations and mixed patterns can reflect host-response amplification after initial cellular stress, but evidence for a single immune mechanism is inconsistent. 
+Mitochondrial/oxidative stress is modest: metformin’s mitochondrial complex I effects are well-known in pharmacology, but direct severe hepatocyte mitochondrial failure is not the typical signature—so these are weighted modestly. 
+Reversibility often favorable if trigger stops: reported cases commonly show improvement after discontinuation, aligning with liver regenerative capacity once the injurious pressure is removed. 
+
+
+

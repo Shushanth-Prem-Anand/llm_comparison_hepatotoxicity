@@ -1,0 +1,23 @@
+{
+  "risk_score_0_to_1": 0.27,
+  "confidence_0_to_1": 0.33,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.22 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.38 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.30 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.12 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.26 }
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "unknown",
+  "reversibility": "unknown",
+  "uncertainties": [
+    "No compound-identity or empirical hepatotoxicity evidence provided beyond structure (SMILES); this is a structure-based mechanistic prior only.",
+    "Bioactivation risk depends on actual metabolic routes (ester hydrolysis vs oxidative metabolism) and enzyme selectivity, which are not known here.",
+    "Transporter interaction (e.g., BSEP) is inferred from cationic amphiphilic features and is not experimentally validated.",
+    "Temporal phenotype (latency, dose dependence, reversibility) cannot be inferred reliably without exposure and in vivo context."
+  ],
+  "citations": [
+    "citation unavailable"
+  ]
+}

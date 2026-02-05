@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.15,
+  "confidence_0_to_1": 0.90,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.05},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.2},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.1},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.6},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.1}
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "idiosyncratic",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Differentiating intrinsic amoxicillin hypersensitivity from clavulanate-driven injury in clinical reports",
+    "Genetic HLA association specific to amoxicillin monotherapy is less defined than the combination"
+  ],
+  "citations": [
+    "Hussaini, S. H., et al. (2007). Liver injury and amoxicillin.",
+    "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Amoxicillin."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "risk_score_0_to_1": 0.85,
+  "confidence_0_to_1": 0.95,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.75},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.95},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.15},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.10},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.85}
+  ],
+  "time_to_onset": "acute_hours_to_days",
+  "dose_dependence": "dose_dependent",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "Individual variation in CYP2E1 activity affects threshold dose",
+    "Genetic polymorphisms in glutathione synthesis enzymes modulate susceptibility",
+    "Chronic alcohol use and fasting states lower toxic threshold unpredictably"
+  ],
+  "citations": [
+    "Jaeschke H, et al. Acetaminophen-induced liver injury: from animal models to humans. J Clin Transl Hepatol. 2014;2(3):153-161.",
+    "McGill MR, Jaeschke H. Metabolism and disposition of acetaminophen: recent advances in relation to hepatotoxicity and diagnosis. Pharm Res. 2013;30(9):2174-2187.",
+    "Yan M, et al. Mechanisms of acetaminophen-induced liver injury and its implications for therapeutic interventions. Redox Biol. 2018;17:274-283."
+  ]
+}

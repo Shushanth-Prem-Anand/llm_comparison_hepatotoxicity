@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.80,
+  "confidence_0_to_1": 0.95,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.7},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.9},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.3},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.8},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.7}
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "idiosyncratic",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Relative contribution of oxidative metabolism (CYP) vs. acyl glucuronidation (UGT) to protein adduct formation",
+    "Impact of CYP2C9 genetic polymorphisms on individual susceptibility threshold"
+  ],
+  "citations": [
+    "Boelsterli, U. A. (2003). Diclofenac-induced liver injury: a paradigm of idiosyncratic drug toxicity.",
+    "Tang, W. (2003). The metabolism of diclofenac—enzymology and toxicology perspectives."
+  ]
+}

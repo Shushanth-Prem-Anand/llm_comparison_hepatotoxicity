@@ -1,0 +1,10 @@
+Reactive metabolite formation is upstream: INH metabolism yields reactive intermediates (e.g., acetylhydrazine-derived/reactive species) that can covalently modify hepatic proteins, creating cellular danger signals. 
+Delayed onset (weeks–months) matches IDILI: covalent binding can occur early, but clinically apparent hepatitis often appears after immune priming + stress accumulation, explaining the longer latency vs direct toxins. 
+Oxidative stress amplifies injury: reactive metabolite handling and CYP-linked bioactivation increase ROS burden, pushing hepatocytes beyond antioxidant reserve. 
+Mitochondrial dysfunction is a key convergence point: oxidative stress and metabolite effects can impair mitochondrial function, leading to ATP depletion and cell-death signaling. 
+Immune-mediated injury is plausible as an amplifier/driver: evidence supports an immune response to drug-modified liver proteins, which can escalate from mild adaptation to overt hepatitis in susceptible hosts. 
+Cholestasis/BSEP signal is secondary: bile-transport dysregulation (FXR/BSEP/MRP2 axis) has been reported, but it is generally less dominant than hepatocellular stress pathways for INH. 
+Reversibility is often good if injury pressure stops: many cases resolve over time after exposure ends, consistent with hepatocyte recovery/regeneration once oxidative/mitochondrial stress is relieved. 
+
+
+

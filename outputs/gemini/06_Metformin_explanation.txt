@@ -1,0 +1,9 @@
+Mitochondrial Complex I Inhibition: Metformin mildly and specifically inhibits Complex I of the mitochondrial respiratory chain. In hepatocytes, this is a pharmacologic effect rather than a toxic one, used to shift the AMP/ATP ratio.
+AMPK Activation: The resulting increase in AMP activates AMP-activated protein kinase (AMPK), which suppresses hepatic gluconeogenesis and is generally considered hepatoprotective rather than toxic.
+Absence of Bioactivation: Unlike the previously discussed agents, metformin does not undergo hepatic metabolism (it is excreted unchanged by the kidneys) and does not form reactive metabolites.
+Lactic Acidosis Risk: While not direct hepatotoxicity, severe mitochondrial inhibition in the setting of renal failure can lead to lactic acidosis, which may secondary affect hepatic perfusion.
+Rare Idiosyncrasy: Fewer than a dozen cases of clinically apparent liver injury have been reported. These are likely idiosyncratic hypersensitivity reactions rather than intrinsic toxicity.
+BSEP Interaction: Metformin shows negligible interaction with the Bile Salt Export Pump (BSEP), making cholestatic injury extremely unlikely.
+Low Risk Score: The score of 0.05 reflects that metformin is essentially non-hepatotoxic in standard clinical use and is often studied for its ability to reduce liver fat in NAFLD.
+Temporal Features: Because there is no established pattern of injury, there is no predictable time-to-onset; most reported rare cases occurred within 1–8 weeks of initiation.
+

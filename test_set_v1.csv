@@ -1,0 +1,11 @@
+id,name,smiles,cas,group,expected_risk,expected_top_mechanisms,expected_temporal_notes,notes
+1,Acetaminophen,,103-90-2,known_high,high,reactive_metabolite_formation;mitochondrial_dysfunction;oxidative_stress,acute;dose_dependent;likely,"Classic intrinsic DILI via NAPQI, good sanity check"
+2,Troglitazone,,97322-87-7,known_high,high,mitochondrial_dysfunction;cholestasis_bsep_inhibition;oxidative_stress,sub_acute;idiosyncratic;partial,Withdrawn due to severe liver injury; tests cholestasis/mito reasoning
+3,Isoniazid,,54-85-3,known_high,high,reactive_metabolite_formation;immune_mediated_injury;oxidative_stress,sub_acute;idiosyncratic;likely,Common idiosyncratic DILI; tests immune vs reactive metabolite balance
+4,Diclofenac,,15307-86-5,known_high,high,reactive_metabolite_formation;immune_mediated_injury;mitochondrial_dysfunction,sub_acute;idiosyncratic;likely,Known DILI risk; tests bio plausibility and uncertainty wording
+5,Valproic acid,,99-66-1,known_high,high,mitochondrial_dysfunction;oxidative_stress,sub_acute;idiosyncratic;unlikely,Mitochondrial toxicity pattern; helps check onset/reversibility
+6,Metformin,,657-24-9,known_low,low,mitochondrial_dysfunction,unknown;unknown;unknown,Generally low DILI; tests false positives + confidence control
+7,Amoxicillin,,26787-78-0,known_low,low,immune_mediated_injury,sub_acute;idiosyncratic;likely,Rare cholestatic/hepatitis cases; tests nuance + uncertainty
+8,Caffeine,,58-08-2,known_low,low,oxidative_stress,unknown;unknown;unknown,Low DILI; tests model tendency to overclaim mechanisms
+9,NovelLike_A,CCN(CC)C(=O)C1=CC=CC=C1,,novel,unknown,unknown,unknown;unknown;unknown,Hypothetical SMILES; must trigger lower confidence + uncertainty
+10,NovelLike_B,CCOC(=O)N1CCC(CC1)C2=CC=CC=C2,,novel,unknown,unknown,unknown;unknown;unknown,Hypothetical SMILES; checks hallucination control on novelty

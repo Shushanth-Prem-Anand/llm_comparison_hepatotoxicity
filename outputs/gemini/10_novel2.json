@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.22,
+  "confidence_0_to_1": 0.65,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.15},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.40},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.10},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.15},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.20}
+  ],
+  "time_to_onset": "unknown",
+  "dose_dependence": "dose_dependent",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Potential for phenyl-ring hydroxylation to reactive quinone intermediates",
+    "Limited specific toxicological data on this carbamate-protected piperidine scaffold"
+  ],
+  "citations": [
+    "Dargan, P. I., et al. (2011). The toxicology of piperazines and piperidines.",
+    "citation unavailable"
+  ]
+}

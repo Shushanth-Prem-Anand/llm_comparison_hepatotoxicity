@@ -1,0 +1,10 @@
+Structure-driven bioactivation signal: The anilide-like aromatic amide with tertiary amine side chain suggests potential CYP-mediated oxidation on the aromatic ring or N-dealkylation, raising reactive metabolite liability relative to aliphatic amides.
+Oxidative stress coupling: If reactive intermediates form, redox cycling or adduct stress can amplify ROS, explaining a moderate oxidative-stress score without direct evidence.
+Mitochondrial involvement (secondary): Lipophilic aromatic systems with cationic amines may accumulate in mitochondria, predisposing to modest energetic stress if bioactivation occurs.
+Cholestasis risk is low–moderate: Physicochemical features do not strongly indicate primary BSEP inhibition; any cholestatic effect would likely be secondary to hepatocellular stress.
+Immune-mediated injury is low-likelihood: No clear hapten-forming motifs are established; immune involvement would likely be downstream of metabolite/protein adducts rather than primary.
+Temporal features remain unknown: Without exposure or metabolic data, latency, dose dependence, and reversibility cannot be reliably assigned.
+Overall interpretation: A low–moderate intrinsic hepatotoxic liability is inferred, dominated by conditional bioactivation pathways that depend on metabolic context and host capacity.
+
+
+

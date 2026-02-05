@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.7,
+  "confidence_0_to_1": 0.9,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.78 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.92 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.08 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.12 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.88 }
+  ],
+  "time_to_onset": "hours_to_1_3_days",
+  "dose_dependence": "dose_dependent_predictable",
+  "reversibility": "often_reversible_if_exposure_limited_or_stopped_early",
+  "uncertainties": [
+    "Risk is strongly exposure-dependent (overdose/repeated high exposure vs typical exposure); without exposure context, risk_score reflects intrinsic overdose liability rather than routine-use risk.",
+    "Minor immune/inflammatory signaling can amplify injury after initial hepatocyte stress, but primary initiating events are metabolic/mitochondrial rather than classic adaptive immune hypersensitivity.",
+    "Mechanistic weights reflect population-level evidence; individual susceptibility varies with metabolic capacity and hepatic antioxidant reserve."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK548162/",
+    "https://www.jci.org/articles/view/59755",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5489132/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8558076/",
+    "https://gastroliver.medicine.ufl.edu/files/2012/07/AcetaminophenReview.pdf"
+  ]
+}

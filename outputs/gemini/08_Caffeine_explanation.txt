@@ -1,0 +1,9 @@
+Primary Metabolism: Caffeine is primarily metabolized in the liver by CYP1A2 via N-demethylation into paraxanthine, theobromine, and theophylline; none of these are reactive or hepatotoxic.
+Low Intrinsic Risk: Caffeine is essentially non-hepatotoxic at any standard or even high dietary intake level, with a safety profile that distinguishes it from other xanthines.
+Mitochondrial Homeostasis: At physiological levels, caffeine may actually support mitochondrial health by stimulating autophagy and fatty acid oxidation via AMPK signaling.
+Absence of Bioactivation: Unlike hepatotoxins, caffeine does not form electrophilic intermediates or haptens, precluding reactive metabolite-driven injury or immune sensitization.
+Secondary Injury in Overdose: In cases of extreme suicidal overdose, liver injury is rarely reported and is typically ischemic (shock liver), resulting from caffeine-induced arrhythmias and cardiovascular collapse rather than direct chemical toxicity.
+Protective Effects: Large-scale epidemiological studies consistently associate regular caffeine consumption (via coffee) with reduced levels of ALT/AST and a lower risk of cirrhosis and HCC.
+BSEP Compatibility: There is no evidence of caffeine-mediated inhibition of the Bile Salt Export Pump (BSEP) or other canalicular transporters involved in cholestasis.
+Temporal Profile: There is no established time-to-onset for liver injury because there is no recognized syndrome of caffeine-induced DILI.
+

@@ -1,0 +1,8 @@
+Mitochondrial dysfunction (dominant): valproate hepatotoxicity is strongly linked to mitochondrial toxicity, including inhibition of fatty-acid β-oxidation and loss of mitochondrial function, producing a microvesicular-steatosis phenotype.
+Oxidative stress (major amplifier): impaired mitochondrial bioenergetics promotes ROS accumulation, which accelerates membrane/protein damage and pushes hepatocytes toward failure.
+Reactive metabolite formation (important upstream factor): shifting away from β-oxidation toward alternative oxidation pathways can increase toxic intermediates (often discussed around omega-oxidation/unsaturated metabolites), adding covalent/proteotoxic stress.
+Weeks–months onset fits “stress accumulation” biology: mitochondrial reserve can compensate for a time, then decompensate as energetic/redox injury accumulates—consistent with typical early-months vulnerability described in reviews.
+Idiosyncratic (not cleanly dose-dependent): severe liver failure risk depends heavily on host susceptibility, including mitochondrial-genetics–linked vulnerability (e.g., POLG-related risk signal), rather than simple exposure scaling.
+Immune-mediated contribution is secondary: inflammation can amplify injury after hepatocyte stress/necrosis begins, but the initiating biology is more consistently mitochondrial-metabolic than classic hypersensitivity.
+Cholestasis/BSEP is lower-weight: the hallmark severe phenotype is steatosis/mitochondrial failure, not primary bile-acid export blockade (so cholestasis is scored lower).
+Reversibility is variable: many cases improve once the mitochondrial/oxidative pressure is removed, but once a tipping point is crossed, injury can progress to failure.

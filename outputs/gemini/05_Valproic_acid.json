@@ -1,0 +1,22 @@
+{
+  "risk_score_0_to_1": 0.85,
+  "confidence_0_to_1": 0.95,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.95},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.85},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.1},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.2},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.8}
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "idiosyncratic",
+  "reversibility": "reversible_if_treated_early",
+  "uncertainties": [
+    "Inter-individual variability in mitochondrial DNA polymerase gamma (POLG) mutations",
+    "Synergistic toxicity threshold with concomitant enzyme-inducing anticonvulsants"
+  ],
+  "citations": [
+    "Silva, M. F., et al. (2008). Valproic acid metabolism and its effects on mitochondrial fatty acid oxidation: a review.",
+    "Kassahun, K., et al. (1991). Metabolic activation of valproic acid to the reactive metabolite 4-ene-valproic acid."
+  ]
+}

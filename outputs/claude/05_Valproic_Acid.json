@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.68,
+  "confidence_0_to_1": 0.92,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.95},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.75},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.30},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.25},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.85}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "dose_dependent",
+  "reversibility": "variable_some_irreversible",
+  "uncertainties": [
+    "Genetic screening for mitochondrial disorders not standardized before valproate initiation",
+    "POLG mutations confer extreme risk but frequency and penetrance vary by population",
+    "Carnitine depletion contribution to toxicity versus marker of mitochondrial dysfunction debated",
+    "Why young children (<2 years) and polytherapy increase risk not fully mechanistically explained"
+  ],
+  "citations": [
+    "Fromenty B, Pessayre D. Inhibition of mitochondrial beta-oxidation as a mechanism of hepatotoxicity. Pharmacol Ther. 1995;67(1):101-154.",
+    "Stewart JD, et al. The dynamics of mitochondrial DNA heteroplasmy: implications for human health and disease. Nat Rev Genet. 2015;16(9):530-542.",
+    "Njålsson R, et al. Valproate-induced liver injury: two case reports and review of the literature. Scand J Gastroenterol. 2003;38(11):1182-1186."
+  ]
+}

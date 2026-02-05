@@ -1,0 +1,9 @@
+Metabolic Idiosyncrasy: Toxicity is heavily driven by NAT2 (N-acetyltransferase 2) polymorphisms; "slow acetylators" accumulate parent drug, while "fast acetylators" generate more downstream metabolites rapidly.
+Reactive Intermediates: The primary mechanism involves hydrolysis of acetylisoniazid to acetylhydrazine, which is oxidized by CYP2E1 into reactive acetylonium ions and acetyl radicals.
+Covalent Binding: These reactive species covalently bind to hepatic macromolecules, causing acylation of proteins and subsequent cellular dysfunction.
+Direct Toxicity: Hydrazine (a minor metabolite) is a potent direct hepatotoxin that contributes to the injury profile by inducing oxidative stress.
+Mitochondrial Stress: Metabolites interfere with the mitochondrial electron transport chain (specifically Complex II), disrupting ATP production and increasing ROS.
+Age-Related Risk: Unlike many other DILI agents, susceptibility increases linearly with age (rare in children, common over 50), suggesting a link to cumulative mitochondrial capacity or clearance changes.
+Injury Pattern: The clinical presentation is classically hepatocellular (mimicking viral hepatitis) with elevated ALT/AST, rather than cholestatic (elevated ALP).
+Adaptation: Up to 20% of patients experience transient enzyme elevations ("adaptation") that resolve without discontinuing; frank hepatotoxicity represents a failure of this adaptive mechanism.
+

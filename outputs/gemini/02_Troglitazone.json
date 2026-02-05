@@ -1,0 +1,23 @@
+{
+  "risk_score_0_to_1": 0.88,
+  "confidence_0_to_1": 0.92,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.9},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.5},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.8},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.4},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.7}
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "idiosyncratic",
+  "reversibility": "reversible_on_withdrawal",
+  "uncertainties": [
+    "Contribution of reactive quinone methide metabolites vs. parent drug toxicity",
+    "Genetic susceptibility related to SOD2 or GST polymorphisms in humans"
+  ],
+  "citations": [
+    "Masubuchi, Y. (2006). Metabolic and non-metabolic factors determining troglitazone hepatotoxicity.",
+    "Smith, M. T. (2003). Mechanisms of troglitazone hepatotoxicity.",
+    "Funk, C., et al. (2001). Troglitazone-induced intrahepatic cholestasis by BSEP inhibition."
+  ]
+}

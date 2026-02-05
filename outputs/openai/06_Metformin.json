@@ -1,0 +1,26 @@
+{
+  "risk_score_0_to_1": 0.2,
+  "confidence_0_to_1": 0.72,
+  "dominant_mechanisms": [
+    { "mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.26 },
+    { "mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.05 },
+    { "mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.34 },
+    { "mechanism": "immune_mediated_injury", "score_0_to_1": 0.31 },
+    { "mechanism": "oxidative_stress", "score_0_to_1": 0.22 }
+  ],
+  "time_to_onset": "weeks_to_months",
+  "dose_dependence": "not_clearly_dose_dependent_idiosyncratic",
+  "reversibility": "often_reversible_if_exposure_limited_or_stopped_early",
+  "uncertainties": [
+    "True hepatotoxicity appears rare; risk_score reflects intrinsic idiosyncratic liability rather than frequency in treated populations.",
+    "Mechanism is not single-pathway: reported cases include cholestatic and mixed patterns, suggesting variable contributions from bile-handling stress and immune-like features.",
+    "Reactive-metabolite initiation is less supported because metformin is largely not hepatically metabolized; therefore confidence is moderate rather than high."
+  ],
+  "citations": [
+    "https://www.ncbi.nlm.nih.gov/books/NBK548726/",
+    "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.969505/full",
+    "https://pubmed.ncbi.nlm.nih.gov/14561576/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0002927001025357",
+    "https://www.acpjournals.org/doi/10.7326/0003-4819-140-5-200403020-00026-w1"
+  ]
+}

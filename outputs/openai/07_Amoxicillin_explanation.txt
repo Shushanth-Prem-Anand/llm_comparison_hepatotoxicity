@@ -1,0 +1,11 @@
+Immune-mediated injury (dominant): evidence synthesis describes the mechanism as likely hypersensitivity/allergy, consistent with idiosyncratic DILI biology. 
+Short latency (days–2 weeks): reported cases show rapid onset and can even begin after stopping the antibiotic—typical of immune-primed or immune-amplified reactions rather than slow cumulative toxicity. 
+Cholestatic signal is meaningful: cases include cholestatic hepatitis (high alkaline phosphatase pattern) and can be prolonged, implying bile-flow disruption downstream of inflammation/injury. 
+Dose dependence is weak: immune-type DILI often reflects host susceptibility and antigen presentation thresholds rather than a smooth exposure–response curve. 
+Reactive metabolite formation is low-weight: amoxicillin-alone DILI is not classically framed as “bioactivation-driven adduct toxicity”; any covalent/neoantigen component is more consistent with immune recognition than dominant metabolic activation. citation unavailable
+Mitochondrial dysfunction is low-weight: the typical pattern is not primary energetic collapse; mitochondrial impairment would be secondary to inflammation/cholestasis if present. citation unavailable
+Oxidative stress is secondary: ROS may rise as part of inflammatory signaling and cholestatic stress, but it’s not the principal initiating mechanism in the reference summary. 
+Reversibility often favorable: most reported cases recover, though some cholestatic cases recover slowly, consistent with restoration of bile handling and resolution of immune activation. 
+
+
+

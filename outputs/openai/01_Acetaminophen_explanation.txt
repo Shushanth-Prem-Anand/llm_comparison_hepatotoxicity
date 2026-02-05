@@ -1,0 +1,10 @@
+Reactive metabolite formation (dominant): Bioactivation generates an electrophilic quinone-imine that covalently binds proteins (including mitochondrial targets) once detox capacity is exceeded, initiating hepatocyte stress. 
+Oxidative stress (dominant): Protein adducts and downstream signaling drive ROS/RNS amplification, pushing cells past redox homeostasis and priming necrotic injury pathways. 
+Mitochondrial dysfunction (dominant): Mitochondria become a key injury hub (loss of membrane potential, permeability transition, energetic collapse), explaining the strong weighting of this mechanism. 
+Time-to-onset = hours to days: Metabolic activation occurs early, but biochemical injury typically becomes evident later as mitochondrial/oxidant cascades expand—classically within ~24–48 h after major exposure. 
+Dose dependence = predictable: Injury is threshold-like and dose-dependent because the trigger is saturation/depletion of detox/redox buffering relative to metabolite load. 
+Reversibility (often, if early): If exposure is curtailed early and hepatocytes recover redox/mitochondrial function, liver has strong regenerative capacity; prolonged injury shifts toward massive necrosis and failure. 
+Low cholestasis/BSEP signal: This pattern is not primarily bile-acid transport–driven, so cholestatic liability is scored low relative to hepatocellular necrosis mechanisms. citation unavailable
+Immune-mediated component is secondary: Sterile inflammation may modulate severity after damage begins, but the initiating biology is metabolic + mitochondrial, not classic antigen-specific hypersensitivity. 
+
+

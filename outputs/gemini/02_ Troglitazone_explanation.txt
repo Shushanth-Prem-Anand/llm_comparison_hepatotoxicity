@@ -1,0 +1,8 @@
+Mitochondrial Target: Troglitazone acts as a potent mitochondrial toxin by inducing the Mitochondrial Permeability Transition (MPT) and inhibiting the respiratory chain (Complex I), leading to ATP depletion.
+BSEP Inhibition: A major non-metabolic driver is the potent inhibition of the Bile Salt Export Pump (BSEP) by the parent drug and its sulfate conjugate, causing toxic bile acid accumulation.
+Reactive Intermediates: While the chromane ring can form quinone methide reactive metabolites, their role in clinical injury is secondary to direct mitochondrial and transporter interference.
+Oxidative Stress: The molecule promotes the formation of superoxide anions; evidence suggests individuals with reduced antioxidant capacity (e.g., SOD2 or GSH deficiencies) are at higher risk.
+Apoptotic Signaling: Prolonged exposure triggers the intrinsic apoptotic pathway through the activation of Caspases 3/7 and 9, secondary to mitochondrial membrane potential collapse.
+Idiosyncratic Nature: The injury is classified as idiosyncratic because it occurs in a small subset of patients, likely requiring a "two-hit" combination of drug-induced stress and underlying genetic susceptibility.
+Temporal Latency: Onset typically occurs between 1 to 6 months, reflecting the time required for sub-clinical mitochondrial damage and bile acid concentrations to reach a necrotic threshold.
+Biological Comparison: Unlike pioglitazone or rosiglitazone, troglitazone's unique chromane structure and higher BSEP affinity explain its significantly higher hepatotoxic potential.

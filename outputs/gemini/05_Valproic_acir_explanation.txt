@@ -1,0 +1,8 @@
+Inhibition of Beta-Oxidation: The parent drug and its metabolites sequester Coenzyme A (CoA) within the mitochondria, forming valproyl-CoA esters that competitively inhibit the beta-oxidation of long-chain fatty acids.
+Microvesicular Steatosis: The blockade of lipid metabolism leads to the rapid accumulation of triglycerides within hepatocytes, resulting in the hallmark pathological finding of microvesicular steatosis.
+Reactive Metabolite Formation: The P450-mediated desaturation of the drug yields 4-ene-valproic acid (and subsequently 2,4-diene-valproic acid), a potent hepatotoxin that irreversibly inhibits mitochondrial beta-oxidation enzymes.
+Urea Cycle Disruption: Mitochondrial dysfunction extends to the inhibition of Carbamoyl Phosphate Synthetase I (CPS1), uncoupling the urea cycle and causing systemic hyperammonemia, often independent of overt hepatic necrosis.
+Mitochondrial DNA Depletion: Patients with mutations in the POLG gene (DNA polymerase gamma) are at extremely high risk, as valproic acid accelerates mitochondrial DNA depletion, leading to catastrophic organelle failure.
+ATP Depletion & Oxidative Stress: The collapse of mitochondrial respiration halts ATP synthesis and generates significant reactive oxygen species (ROS), driving cell death.
+Metabolic Idiosyncrasy: Unlike allergic idiosyncrasy, this is a metabolic idiosyncrasy where genetic defects in mitochondrial function render specific individuals (often children <2 years) unable to compensate for the metabolic stress.
+Temporal Profile: Onset is typically 1 to 6 months after initiation; this latency corresponds to the time required to deplete hepatic antioxidant reserves and accumulate toxic lipid intermediates.

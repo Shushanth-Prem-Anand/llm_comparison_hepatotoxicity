@@ -1,0 +1,9 @@
+Low Intrinsic Toxicity: Amoxicillin alone has a very low potential for direct hepatocellular damage; it lacks the significant mitochondrial or metabolic liabilities seen in drugs like Valproate.
+Hapten Formation: As a beta-lactam, the molecule can covalently bind to lysine residues on serum and cellular proteins (haptenization), creating a complex that the immune system may recognize as foreign.
+Immune-Mediated Reaction: The primary driver of injury is an idiosyncratic hypersensitivity reaction. This is often accompanied by systemic features like rash, fever, or eosinophilia (DRESS syndrome).
+Comparison with Clavulanate: Monotherapy with amoxicillin is significantly less hepatotoxic than the Amoxicillin-Clavulanate combination; the addition of clavulanate increases the risk of cholestatic injury by roughly 10- to 50-fold.
+Biliary Manifestations: When injury does occur, it often presents with cholestatic features (elevated alkaline phosphatase), likely due to immune-mediated damage to the bile duct epithelium.
+Genetic Susceptibility: Risk is thought to be linked to specific HLA (Human Leukocyte Antigen) genotypes, though these associations are much more robustly established for the clavulanate combination (e.g., HLA-DRB1*1501).
+Temporal Features: The delay in onset (typically 1 to 3 weeks) is the biological signature of a Type IV hypersensitivity response, requiring time for T-cell sensitization and clonal expansion.
+Recovery Profile: Most cases of amoxicillin-induced liver injury are self-limiting and resolve rapidly once the drug is discontinued and the immune stimulus is removed.
+

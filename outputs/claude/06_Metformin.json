@@ -1,0 +1,25 @@
+{
+  "risk_score_0_to_1": 0.15,
+  "confidence_0_to_1": 0.90,
+  "dominant_mechanisms": [
+    {"mechanism": "mitochondrial_dysfunction", "score_0_to_1": 0.40},
+    {"mechanism": "reactive_metabolite_formation", "score_0_to_1": 0.05},
+    {"mechanism": "cholestasis_bsep_inhibition", "score_0_to_1": 0.10},
+    {"mechanism": "immune_mediated_injury", "score_0_to_1": 0.15},
+    {"mechanism": "oxidative_stress", "score_0_to_1": 0.20}
+  ],
+  "time_to_onset": "subacute_weeks_to_months",
+  "dose_dependence": "minimal_dose_relationship",
+  "reversibility": "reversible_if_early",
+  "uncertainties": [
+    "True incidence of metformin hepatotoxicity may be underestimated due to widespread use and attribution bias",
+    "Whether mild transaminase elevations represent true hepatotoxicity or metabolic adaptation unclear",
+    "Mechanism distinguishing rare hepatotoxic cases from millions of safe users poorly understood",
+    "Potential confounding from NAFLD/NASH in diabetic populations complicates causality assessment"
+  ],
+  "citations": [
+    "Desilets AR, et al. Role of metformin for weight management in patients without type 2 diabetes. Ann Pharmacother. 2008;42(6):817-826.",
+    "Miralles-Linares F, et al. Metformin-induced hepatotoxicity. Diabetes Care. 2012;35(3):e21.",
+    "Gough SC, et al. Efficacy and safety of a fixed-dose combination of alogliptin and metformin in patients with type 2 diabetes. Diabetes Obes Metab. 2014;16(12):1291-1299."
+  ]
+}
